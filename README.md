@@ -14,4 +14,4 @@ And you will see the following test results:
   ✓ BlockDetails is undefined because of circular reference! (4ms)
 ```
 
-Checkout [__tests__/app_test.ts](__tests_/app_test.ts) to 
+Checkout [__tests__/app_test.ts](./__tests_/app_test.ts) to analyze.
