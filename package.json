@@ -1,0 +1,21 @@
+{
+  "name": "circular_reference_example",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "yarn test",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "ts-jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^24.0.13",
+    "jest": "^24.8.0",
+    "jest-cli": "^24.8.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.4.5"
+  }
+}

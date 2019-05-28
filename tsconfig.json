@@ -1,0 +1,19 @@
+{
+  "version": "2.0.3",
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "declaration": false,
+    "forceConsistentCasingInFileNames": true,
+    "lib": [ "es6", "dom" ],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "sourceMap": true,
+    "strict": true,
+    "strictFunctionTypes": false,
+    "suppressImplicitAnyIndexErrors": true,
+    "target": "es2016",
+    "types": [ "jest" ]
+  }
+}
